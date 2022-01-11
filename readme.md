@@ -1,0 +1,1 @@
+this project is about recipes. it contains many links on my brutalist website leading to legitimate recipes websites. i demostrate all my html knolegde i`ve gained so far in this website. enjoy!
